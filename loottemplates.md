@@ -33,7 +33,6 @@
 | Mission 3 | -   | -    | -         | -                  | -      | -                     | -          | -          |
 | Mission 4 | -   | -    | -         | -                  | -      | -                     | -          | -          |
 
-## Two Cities Robot Part Drops
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
