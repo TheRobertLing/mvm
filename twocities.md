@@ -31,16 +31,33 @@
 | Mission 4 | 2                | -                  | 2         | -                         | 1                   | -                  | -                          | -                        |
 
 ## Tour 464
-|           | Map               | Date   | Item Drop         | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|-------------------|--------|-------------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Hamlet Hostility  | 2/4/26 | The Rescue Ranger | -                  | -      | -                     | -          | -          |
-| Mission 2 | Empire Escalation | 2/4/26 | The Shahanshah    | L'Etranger         | -      | -                     | -          | -          |
-| Mission 3 | -                 | -      | -                 | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                 | -      | -                 | -                  | -      | -                     | -          | -          |
+|           | Map               | Date   | Item Drop             | Spec KS Fabricator     | KS Kit      | Pro KS Kit Fabricator | Australium    | Golden Pan |
+|-----------|-------------------|--------|-----------------------|------------------------|-------------|-----------------------|---------------|------------|
+| Mission 1 | Hamlet Hostility  | 2/4/26 | The Rescue Ranger     | -                      | -           | -                     | -             | -          |
+| Mission 2 | Empire Escalation | 2/4/26 | The Shahanshah        | L'Etranger             | -           | -                     | -             | -          |
+| Mission 3 | Metro Malice      | 3/4/26 | The Robot Running Man | -                      | -           | -                     | -             | -          |
+| Mission 4 | Bavarian Botbash  | 3/4/26 | The Eyelander         | Scotsman's Skullcutter | Syringe Gun | -                     | Flame Thrower | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 2                | 2                  | -         | -                         | 1                   | -                  | -                          | -                        |
 | Mission 2 | 3                | 1                  | -         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 3 | 1                | 2                  | 1         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 4 | 2                | 2                  | -         | 1                         | -                   | -                  | -                          | -                        |
+
+
+## Tour 465
+
+|           | Map          | Date   | Item Drop | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|--------------|--------|-----------|--------------------|--------|-----------------------|------------|------------|
+| Mission 1 | Metro Malice | 3/4/26 | Natascha  | -                  | -      | -                     | -          | -          |
+| Mission 2 | -            | -      | -         | -                  | -      | -                     | -          | -          |
+| Mission 3 | -            | -      | -         | -                  | -      | -                     | -          | -          |
+| Mission 4 | -            | -      | -         | -                  | -      | -                     | -          | -          |
+
+|           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
+|-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
+| Mission 1 | 4                | -                  | 1         | 1                         | -                   | -                  | -                          | -                        |
+| Mission 2 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
 | Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
 | Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
