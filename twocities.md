@@ -48,16 +48,16 @@
 
 ## Tour 465
 
-|           | Map          | Date   | Item Drop | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|--------------|--------|-----------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Metro Malice | 3/4/26 | Natascha  | -                  | -      | -                     | -          | -          |
-| Mission 2 | -            | -      | -         | -                  | -      | -                     | -          | -          |
-| Mission 3 | -            | -      | -         | -                  | -      | -                     | -          | -          |
-| Mission 4 | -            | -      | -         | -                  | -      | -                     | -          | -          |
+|           | Map               | Date   | Item Drop      | Spec KS Fabricator  | KS Kit    | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|--------|----------------|---------------------|-----------|-----------------------|------------|------------|
+| Mission 1 | Metro Malice      | 3/4/26 | Natascha       | -                   | -         | -                     | -          | -          |
+| Mission 2 | Hamlet Hostility  | 4/4/26 | The Widowmaker | -                   | -         | -                     | -          | -          |
+| Mission 3 | Bavarian Botbash  | 4/4/26 | The Mantreads  | -                   | -         | -                     | -          | -          |
+| Mission 4 | Empire Escalation | 4/4/26 | The Original   | Stickybomb Launcher | Degreaser | Your Eternal Reward   | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 4                | -                  | 1         | 1                         | -                   | -                  | -                          | -                        |
-| Mission 2 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 2 | 1                | 1                  | 2         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 3 | 2                | 2                  | 1         | 1                         | 1                   | -                  | -                          | -                        |
+| Mission 4 | 4                | 1                  | 2         | -                         | -                   | 1                  | -                          | -                        |
