@@ -8,8 +8,17 @@
 
 ## Tour 122
 
-|           | Map          | Date   | Item Drop     | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
-|-----------|--------------|--------|---------------|------------------------|----------------------|------------|------------|
-| Mission 1 | Broken Parts | 3/4/26 | The Shortstop | -                      | -                    | -          | -          |
-| Mission 2 | -            | -      | -             | -                      | -                    | -          | -          |
-| Mission 3 | -            | -      | -             | -                      | -                    | -          | -          |
+|           | Map            | Date   | Item Drop          | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|--------|--------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 3/4/26 | The Shortstop      | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 5/4/26 | The Bolted Bushman | -                      | -                    | -          | -          |
+| Mission 3 | Bone Shaker    | 5/4/26 | The Gunslinger     | Minigun                | -                    | -          | -          |
+
+## Tour 123
+
+|           | Map            | Date   | Item Drop                  | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|--------|----------------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 5/4/26 | Pretty Boy's Pocket Pistol | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 5/4/26 | The Half-Zatoichi          | -                      | -                    | -          | -          |
+| Mission 3 | -              | -      | -                          | -                      | -                    | -          | -          |
+
