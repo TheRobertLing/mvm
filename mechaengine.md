@@ -20,5 +20,5 @@
 |-----------|----------------|--------|----------------------------|------------------------|----------------------|------------|------------|
 | Mission 1 | Broken Parts   | 5/4/26 | Pretty Boy's Pocket Pistol | -                      | -                    | -          | -          |
 | Mission 2 | Disintegration | 5/4/26 | The Half-Zatoichi          | -                      | -                    | -          | -          |
-| Mission 3 | -              | -      | -                          | -                      | -                    | -          | -          |
+| Mission 3 | Bone Shaker    | 6/4/26 | The Wrangler               | Knife                  | -                    | -          | -          |
 
