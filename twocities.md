@@ -84,12 +84,12 @@
 |-----------|-------------------|--------|--------------------|--------------------|--------|-----------------------|------------|------------|
 | Mission 1 | Empire Escalation | 7/4/26 | The Powerjack      | -                  | -      | -                     | -          | -          |
 | Mission 2 | Hamlet Hostility  | 7/4/26 | Bonk! Atomic Punch | -                  | -      | -                     | -          | -          |
-| Mission 3 | -                 | -      | -                  | -                  | -      | -                     | -          | -          |
+| Mission 3 | Bavarian Botbash  | 8/4/26 | The Big Earner     | -                  | -      | -                     | -          | -          |
 | Mission 4 | -                 | -      | -                  | -                  | -      | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 3                | 1                  | -         | -                         | -                   | 1                  | -                          | -                        |
 | Mission 2 | 1                | -                  | 3         | -                         | -                   | 1                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 3 | -                | 1                  | 3         | -                         | -                   | 1                  | -                          | -                        |
 | Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |

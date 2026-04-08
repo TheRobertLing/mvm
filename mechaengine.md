@@ -24,9 +24,9 @@
 
 ## Tour 124
 
-|           | Map            | Date   | Item Drop          | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
-|-----------|----------------|--------|--------------------|------------------------|----------------------|------------|------------|
-| Mission 1 | Disintegration | 7/4/26 | The B.A.S.E Jumper | -                      | -                    | -          | -          |
-| Mission 2 | Bone Shaker    | 7/4/26 | The Wrangler       | -                      | -                    | -          | -          |
-| Mission 3 | -              | -      | -                  | -                      | -                    | -          | -          |
+|           | Map            | Date   | Item Drop              | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|--------|------------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Disintegration | 7/4/26 | The B.A.S.E Jumper     | -                      | -                    | -          | -          |
+| Mission 2 | Bone Shaker    | 7/4/26 | The Wrangler           | -                      | -                    | -          | -          |
+| Mission 3 | Broken Parts  | 8/4/26 | Darwin's Danger Shield | -                      | Medigun              | -          | -          |
 
