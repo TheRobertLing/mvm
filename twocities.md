@@ -96,16 +96,16 @@
 
 ## Tour 468
 
-|           | Map               | Date   | Item Drop             | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|-------------------|--------|-----------------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Hamlet Hostility  | 9/4/26 | The Persian Persuader | -                  | -      | -                     | -          | -          |
-| Mission 2 | Empire Escalation | 9/4/26 | The Fists of Steel    | -                  | -      | -                     | -          | -          |
-| Mission 3 | -                 | -      | -                     | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                 | -      | -                     | -                  | -      | -                     | -          | -          |
+|           | Map               | Date    | Item Drop             | Spec KS Fabricator | KS Kit                   | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|-----------------------|--------------------|--------------------------|-----------------------|------------|------------|
+| Mission 1 | Hamlet Hostility  | 9/4/26  | The Persian Persuader | -                  | -                        | -                     | -          | -          |
+| Mission 2 | Empire Escalation | 9/4/26  | The Fists of Steel    | -                  | -                        | -                     | -          | -          |
+| Mission 3 | Bavarian Botbash  | 10/4/26 | The Huo-Long Heater   | Market Gardener    | -                        | -                     | -          | -          |
+| Mission 4 | Metro Malice      | 10/4/26 | Giftapult             | Lollichop          | Killing Gloves of Boxing | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 3                | 1                  | -         | -                         | 1                   | 1                  | -                          | -                        |
 | Mission 2 | -                | 1                  | 3         | -                         | -                   | 1                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          |                          |
+| Mission 3 | 2                | 3                  | 1         | 1                         | -                   | 1                  | 1                          | -                        |
+| Mission 4 | -                | 2                  | 2         | 1                         | -                   | -                  | -                          |                          |
