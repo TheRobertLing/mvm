@@ -38,3 +38,18 @@
 | Mission 2 | Disintegration | 10/4/26 | The Rainblower     | -                      | -                    | -          | -          |
 | Mission 3 | Bone Shaker    | 10/4/26 | The Market Gardner | Sniper Rifle           | -                    | -          | -          |
 
+## Tour 126
+
+|           | Map            | Date    | Item Drop             | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|-----------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 11/4/26 | The Kritzkrieg        | -                      | -                    | -          | -          |
+| Mission 2 | Bone Shaker    | 11/4/26 | Conniver's Kunai      | -                      | -                    | -          | -          |
+| Mission 3 | Disintegration | 11/4/26 | The Flying Guillotine | Stickybomb Launcher    | -                    | -          | -          |
+
+## Tour 127
+|           | Map          | Date    | Item Drop             | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|--------------|---------|-----------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts | 11/4/26 | The Persian Persuader | -                      | -                    | -          | -          |
+| Mission 2 | -            | -       | -                     | -                      | -                    | -          | -          |
+| Mission 3 | -            | -       | -                     | -                      | -                    | -          | -          |
+
