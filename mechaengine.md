@@ -47,9 +47,9 @@
 | Mission 3 | Disintegration | 11/4/26 | The Flying Guillotine | Stickybomb Launcher    | -                    | -          | -          |
 
 ## Tour 127
-|           | Map          | Date    | Item Drop             | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
-|-----------|--------------|---------|-----------------------|------------------------|----------------------|------------|------------|
-| Mission 1 | Broken Parts | 11/4/26 | The Persian Persuader | -                      | -                    | -          | -          |
-| Mission 2 | -            | -       | -                     | -                      | -                    | -          | -          |
-| Mission 3 | -            | -       | -                     | -                      | -                    | -          | -          |
+|           | Map            | Date    | Item Drop             | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|-----------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 11/4/26 | The Persian Persuader | -                      | -                    | -          | -          |
+| Mission 2 | Bone Shaker    | 11/4/26 | The Reverse Shooter   | -                      | -                    | -          | -          |
+| Mission 3 | Disintegration | 12/4/26 | The Buff Banner       | -                      | Scattergun           | -          | -          |
 

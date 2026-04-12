@@ -29,3 +29,11 @@
 | Mission 1 | Desperation   | 10/4/26 | The Second Banana   | -                        | -                      | -          | -          |
 | Mission 2 | Cataclysm     | 10/4/26 | The Stealth Steeler | -                        | -                      | -          | -          |
 | Mission 3 | Mannslaughter | 11/4/26 | The Sandvich        | Rocket Launcher          | -                      | -          | -          |
+
+## Tour 49
+
+|           | Map           | Date    | Item Drop             | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|-----------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Mannslaughter | 12/4/26 | The Dueling Mini-game | -                        | -                      | -          | -          |
+| Mission 2 | Desperation   | 12/4/26 | The Neon Annihilator  | -                        | -                      | -          | -          |
+| Mission 3 | Cataclysm     | -       | -                     | -                        | -                      | -          | -          |
