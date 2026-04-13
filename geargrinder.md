@@ -36,4 +36,12 @@
 |-----------|---------------|---------|-----------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Mannslaughter | 12/4/26 | The Dueling Mini-game | -                        | -                      | -          | -          |
 | Mission 2 | Desperation   | 12/4/26 | The Neon Annihilator  | -                        | -                      | -          | -          |
-| Mission 3 | Cataclysm     | -       | -                     | -                        | -                      | -          | -          |
+| Mission 3 | Cataclysm     | 13/4/26 | The Iron Bomber       | Knife                    | -                      | -          | -          |
+
+## Tour 50
+
+|           | Map           | Date    | Item Drop        | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation   | 13/4/26 | The Back Scatter | -                        | -                      | -          | -          |
+| Mission 2 | Mannslaughter | 13/4/26 | The Hot Hand     | -                        | -                      | -          | -          |
+| Mission 3 | -             | -       | -                | -                        | -                      | -          | -          |

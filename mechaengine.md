@@ -53,3 +53,10 @@
 | Mission 2 | Bone Shaker    | 11/4/26 | The Reverse Shooter   | -                      | -                    | -          | -          |
 | Mission 3 | Disintegration | 12/4/26 | The Buff Banner       | -                      | Scattergun           | -          | -          |
 
+## Tour 128
+
+|           | Map            | Date    | Item Drop              | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|------------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 13/4/26 | The Escape Plan        | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 13/4/26 | The Scottish Handshake | -                      | -                    | -          | -          |
+| Mission 3 | Bone Shaker    | 13/4/26 | The Tribalman's Shiv   | Minigun                | -                    | -          | -          |
