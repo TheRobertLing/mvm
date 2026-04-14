@@ -40,8 +40,8 @@
 
 ## Tour 50
 
-|           | Map           | Date    | Item Drop        | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
-|-----------|---------------|---------|------------------|--------------------------|------------------------|------------|------------|
-| Mission 1 | Desperation   | 13/4/26 | The Back Scatter | -                        | -                      | -          | -          |
-| Mission 2 | Mannslaughter | 13/4/26 | The Hot Hand     | -                        | -                      | -          | -          |
-| Mission 3 | -             | -       | -                | -                        | -                      | -          | -          |
+|           | Map           | Date    | Item Drop                    | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|------------------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation   | 13/4/26 | The Back Scatter             | -                        | -                      | -          | -          |
+| Mission 2 | Mannslaughter | 13/4/26 | The Hot Hand                 | -                        | -                      | -          | -          |
+| Mission 3 | Cataclysm     | 14/4/26 | The Killing Gloves of Boxing | -                        | Stickybomb Launcher    | -          | -          |
