@@ -1,5 +1,4 @@
 ## Tour 45
-
 |           | Map           | Date    | Item Drop             | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|-----------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Mannslaughter | -       | -                     | -                        | -                      | -          | -          |
@@ -7,7 +6,6 @@
 | Mission 3 | Desperation   | 31/3/26 | The Cleaner's Carbine | Minigun                  | -                      | -          | -          |
 
 ## Tour 46
-
 |           | Map           | Date   | Item Drop     | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|--------|---------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Mannslaughter | 4/4/26 | The Equalizer | -                        | -                      | -          | -          |
@@ -15,7 +13,6 @@
 | Mission 3 | Desperation   | 6/4/26 | The Degreaser | Flame Thrower            | -                      | -          | -          |
 
 ## Tour 47
-
 |           | Map           | Date    | Item Drop              | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|------------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Mannslaughter | 4/5/26  | -                      | -                        | -                      | -          | -          |
@@ -23,7 +20,6 @@
 | Mission 3 | Cataclysm     | 10/4/26 | The Dragon's Fury      | Scattergun               | -                      | -          | -          |
 
 ## Tour 48
-
 |           | Map           | Date    | Item Drop           | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|---------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Desperation   | 10/4/26 | The Second Banana   | -                        | -                      | -          | -          |
@@ -31,7 +27,6 @@
 | Mission 3 | Mannslaughter | 11/4/26 | The Sandvich        | Rocket Launcher          | -                      | -          | -          |
 
 ## Tour 49
-
 |           | Map           | Date    | Item Drop             | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|-----------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Mannslaughter | 12/4/26 | The Dueling Mini-game | -                        | -                      | -          | -          |
@@ -39,9 +34,15 @@
 | Mission 3 | Cataclysm     | 13/4/26 | The Iron Bomber       | Knife                    | -                      | -          | -          |
 
 ## Tour 50
-
 |           | Map           | Date    | Item Drop                    | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|------------------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Desperation   | 13/4/26 | The Back Scatter             | -                        | -                      | -          | -          |
 | Mission 2 | Mannslaughter | 13/4/26 | The Hot Hand                 | -                        | -                      | -          | -          |
 | Mission 3 | Cataclysm     | 14/4/26 | The Killing Gloves of Boxing | -                        | Stickybomb Launcher    | -          | -          |
+
+## Tour 51
+|           | Map | Date | Item Drop | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|-----|------|-----------|--------------------------|------------------------|------------|------------|
+| Mission 1 |    | -    | -         | -                        | -                      | -          | -          |
+| Mission 2 | -   | -    | -         | -                        | -                      | -          | -          |
+| Mission 3 | -   | -    | -         | -                        | -                      | -          | -          |
