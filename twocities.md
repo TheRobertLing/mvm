@@ -157,3 +157,19 @@
 | Mission 2 | 2                | 1                  | 1         | -                         | -                   | 1                  | -                          | -                        |
 | Mission 3 | 3                | 1                  | 1         | -                         | -                   | 1                  | -                          | -                        |
 | Mission 4 | 2                | 1                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+
+## Tour 472
+
+|           | Map               | Date    | Item Drop             | Spec KS Fabricator         | KS Kit    | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|-----------------------|----------------------------|-----------|-----------------------|------------|------------|
+| Mission 1 | Bavarian Botbash  | 16/4/26 | The Third Degree      | -                          | -         | -                     | -          | -          |
+| Mission 2 | Empire Escalation | 16/4/26 | The Short Circuit     | -                          | -         | -                     | -          | -          |
+| Mission 3 | Hamlet Hostility  | 16/4/26 | The Flying Guillotine | -                          | -         | -                     | -          | -          |
+| Mission 4 | Metro Malice      | 16/4/26 | Crusador's Crossbow   | Pretty Boy's Pocket Pistol | Fan O'War | -                     | -          | -          |
+
+|           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
+|-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
+| Mission 1 | 2                | 2                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 2 | 1                | 2                  | 1         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 3 | -                | 2                  | 2         | 1                         | -                   | -                  | -                          | -                        |
+| Mission 4 | 2                | 1                  | 2         | 1                         | -                   | -                  | -                          | -                        |
