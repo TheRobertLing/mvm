@@ -55,8 +55,8 @@
 | Mission 3 | Bone Shaker    | 13/4/26 | The Tribalman's Shiv   | Minigun                | -                    | -          | -          |
 
 ## Tour 129
-|           | Map          | Date    | Item Drop    | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
-|-----------|--------------|---------|--------------|------------------------|----------------------|------------|------------|
-| Mission 1 | Broken Parts | 15/4/26 | The Ubersaw  | -                      | -                    | -          | -          |
-| Mission 2 | Bone Shaker  | 15/4/26 | The Original | -                      | -                    | -          | -          |
-| Mission 3 | -            | -       | -            | -                      | -                    | -          | -          |
+|           | Map            | Date    | Item Drop      | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|----------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 15/4/26 | The Ubersaw    | -                      | -                    | -          | -          |
+| Mission 2 | Bone Shaker    | 15/4/26 | The Original   | -                      | -                    | -          | -          |
+| Mission 3 | DIsintegration | 17/4/26 | The Solemn Vow | Stickybomb Launcher    | -                    | -          | -          |

@@ -41,8 +41,8 @@
 | Mission 3 | Cataclysm     | 14/4/26 | The Killing Gloves of Boxing | -                        | Stickybomb Launcher    | -          | -          |
 
 ## Tour 51
-|           | Map | Date | Item Drop | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
-|-----------|-----|------|-----------|--------------------------|------------------------|------------|------------|
-| Mission 1 |    | -    | -         | -                        | -                      | -          | -          |
-| Mission 2 | -   | -    | -         | -                        | -                      | -          | -          |
-| Mission 3 | -   | -    | -         | -                        | -                      | -          | -          |
+|           | Map       | Date    | Item Drop          | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|-----------|---------|--------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Cataclysm | 17/4/26 | Bonk! Atomic Punch | -                        | -                      | -          | -          |
+| Mission 2 | -         | -       | -                  | -                        | -                      | -          | -          |
+| Mission 3 | -         | -       | -                  | -                        | -                      | -          | -          |
