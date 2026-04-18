@@ -176,16 +176,47 @@
 
 ## Tour 473
 
-|           | Map              | Date    | Item Drop       | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|------------------|---------|-----------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Bavarian Botbash | 17/4/26 | The Tin Pot     | -                  | -      | -                     | -          | -          |
-| Mission 2 | Hamlet Hostility | 17/4/26 | The Bootie Time | Eyelander          | -      | -                     | -          | -          |
-| Mission 3 | Metro Malice     | 17/4/26 | The Detonator   | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                | -       | -               | -                  | -      | -                     | -          | -          |
+|           | Map               | Date    | Item Drop        | Spec KS Fabricator | KS Kit        | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|------------------|--------------------|---------------|-----------------------|------------|------------|
+| Mission 1 | Bavarian Botbash  | 17/4/26 | The Tin Pot      | -                  | -             | -                     | -          | -          |
+| Mission 2 | Hamlet Hostility  | 17/4/26 | The Bootie Time  | Eyelander          | -             | -                     | -          | -          |
+| Mission 3 | Metro Malice      | 17/4/26 | The Detonator    | -                  | -             | -                     | -          | -          |
+| Mission 4 | Empire Escalation | 18/4/26 | THe Pompson 6000 | Nessie's Nine Iron | Rescue Ranger | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 1                | 3                  | 1         | -                         | 1                   | -                  | -                          | 1                        |
 | Mission 2 | 1                | 1                  | 3         | -                         | 1                   | -                  | -                          | -                        |
 | Mission 3 | 1                | 1                  | 2         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 4 | 2                | 3                  | -         | 2                         | -                   | -                  | -                          | -                        |
+
+## Tour 474
+|           | Map               | Date    | Item Drop                  | Spec KS Fabricator | KS Kit      | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|----------------------------|--------------------|-------------|-----------------------|------------|------------|
+| Mission 1 | Bavarian Botbash  | 18/4/26 | The Scotsman's Skullcutter | -                  | -           | -                     | -          | -          |
+| Mission 2 | Empire Escalation | 18/4/26 | The Flare Gun              | -                  | -           | -                     | -          | -          |
+| Mission 3 | Hamlet Hostility  | 18/4/26 | The Mantreads              | -                  | -           | -                     | -          | -          |
+| Mission 4 | Metro Malice      | 18/4/26 | The Jag                    | Shooting Star      | C.A.P.P.E.R | -                     | -          | -          |
+
+|           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
+|-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
+| Mission 1 | 1                | 2                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 2 | -                | 2                  | 2         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 3 | 2                | 3                  | -         | 1                         | 1                   | -                  | -                          | -                        |
+| Mission 4 | 1                | 1                  | 1         | -                         | 1                   | -                  | -                          | -                        |
+
+## Tour 475
+
+|           | Map          | Date    | Item Drop     | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|--------------|---------|---------------|--------------------|--------|-----------------------|------------|------------|
+| Mission 1 | Metro Malice | 18/4/26 | The Black Box | -                  | -      | -                     | -          | -          |
+| Mission 2 | -            | -       | -             | -                  | -      | -                     | -          | -          |
+| Mission 3 | -            | -       | -             | -                  | -      | -                     | -          | -          |
+| Mission 4 | -            | -       | -             | -                  | -      | -                     | -          | -          |
+
+|           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
+|-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
+| Mission 1 | -                | 2                  | 2         | 1                         | -                   | -                  | -                          | -                        |
+| Mission 2 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
 | Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
