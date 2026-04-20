@@ -59,4 +59,20 @@
 |-----------|----------------|---------|----------------|------------------------|----------------------|------------|------------|
 | Mission 1 | Broken Parts   | 15/4/26 | The Ubersaw    | -                      | -                    | -          | -          |
 | Mission 2 | Bone Shaker    | 15/4/26 | The Original   | -                      | -                    | -          | -          |
-| Mission 3 | DIsintegration | 17/4/26 | The Solemn Vow | Stickybomb Launcher    | -                    | -          | -          |
+| Mission 3 | Disintegration | 17/4/26 | The Solemn Vow | Stickybomb Launcher    | -                    | -          | -          |
+
+## Tour 130
+
+|           | Map            | Date    | Item Drop                  | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|----------------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Bone Shaker    | 19/4/26 | Sharpened Volcano Fragment | -                      | -                    | -          | -          |
+| Mission 2 | Broken Parts   | 19/4/26 | The Candy Cane             | -                      | -                    | -          | -          |
+| Mission 3 | Disintegration | 19/4/26 | The Bat Outta Hell         | Wrench                 | -                    | -          | -          |
+
+## Tour 131
+
+|           | Map            | Date    | Item Drop           | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|---------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 20/4/26 | The B.A.S.E Jumper  | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 20/4/26 | The Pyrobotics Pack | -                      | -                    | -          | -          |
+| Mission 3 | Bone Shaker    | 20/4/26 | The Ambassador      | Minigun                | -                    | -          | -          |

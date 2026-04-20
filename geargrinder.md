@@ -46,3 +46,11 @@
 | Mission 1 | Cataclysm   | 17/4/26 | Bonk! Atomic Punch | -                        | -                      | -          | -          |
 | Mission 2 | Desperation | 18/4/26 | The Loch-n-Load    | -                        | -                      | -          | -          |
 | Mission 3 | -           | -       | The Bolted Bushman | Rocket Launcher          | -                      | -          | -          |
+
+## Tour 52
+
+|           | Map | Date | Item Drop | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|-----|------|-----------|--------------------------|------------------------|------------|------------|
+| Mission 1 | -   | -    | -         | -                        | -                      | -          | -          |
+| Mission 2 | -   | -    | -         | -                        | -                      | -          | -          |
+| Mission 3 | -   | -    | -         | -                        | -                      | -          | -          |

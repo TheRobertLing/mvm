@@ -207,16 +207,16 @@
 
 ## Tour 475
 
-|           | Map          | Date    | Item Drop     | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|--------------|---------|---------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Metro Malice | 18/4/26 | The Black Box | -                  | -      | -                     | -          | -          |
-| Mission 2 | -            | -       | -             | -                  | -      | -                     | -          | -          |
-| Mission 3 | -            | -       | -             | -                  | -      | -                     | -          | -          |
-| Mission 4 | -            | -       | -             | -                  | -      | -                     | -          | -          |
+|           | Map              | Date    | Item Drop      | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|------------------|---------|----------------|--------------------|--------|-----------------------|------------|------------|
+| Mission 1 | Metro Malice     | 18/4/26 | The Black Box  | -                  | -      | -                     | -          | -          |
+| Mission 2 | Hamlet Hostility | 19/4/26 | Tomislav       | -                  | -      | -                     | -          | -          |
+| Mission 3 | -                | -       | The Direct Hit | -                  | -      | -                     | -          | -          |
+| Mission 4 | -                | -       | -              | -                  | -      | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | -                | 2                  | 2         | 1                         | -                   | -                  | -                          | -                        |
-| Mission 2 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 2 | 3                | 1                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 3 | 3                | -                  | 1         | -                         | 1                   | -                  | 1                          | -                        |
 | Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
