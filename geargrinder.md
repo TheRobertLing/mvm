@@ -49,8 +49,8 @@
 
 ## Tour 52
 
-|           | Map | Date | Item Drop | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
-|-----------|-----|------|-----------|--------------------------|------------------------|------------|------------|
-| Mission 1 | -   | -    | -         | -                        | -                      | -          | -          |
-| Mission 2 | -   | -    | -         | -                        | -                      | -          | -          |
-| Mission 3 | -   | -    | -         | -                        | -                      | -          | -          |
+|           | Map           | Date    | Item Drop      | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|----------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | -             | 21/4/26 | The Gunboats   | -                        | -                      | -          | -          |
+| Mission 2 | Desperation   | 21/4/26 | The Ubersaw    | -                        | -                      | -          | -          |
+| Mission 3 | Mannslaughter | 21/4/26 | The Candy Cane | Medigun                  | -                      | -          | -          |
