@@ -41,16 +41,23 @@
 | Mission 3 | Cataclysm     | 14/4/26 | The Killing Gloves of Boxing | -                        | Stickybomb Launcher    | -          | -          |
 
 ## Tour 51
-|           | Map         | Date    | Item Drop          | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
-|-----------|-------------|---------|--------------------|--------------------------|------------------------|------------|------------|
-| Mission 1 | Cataclysm   | 17/4/26 | Bonk! Atomic Punch | -                        | -                      | -          | -          |
-| Mission 2 | Desperation | 18/4/26 | The Loch-n-Load    | -                        | -                      | -          | -          |
-| Mission 3 | -           | -       | The Bolted Bushman | Rocket Launcher          | -                      | -          | -          |
+|           | Map           | Date    | Item Drop          | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|--------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Cataclysm     | 17/4/26 | Bonk! Atomic Punch | -                        | -                      | -          | -          |
+| Mission 2 | Desperation   | 18/4/26 | The Loch-n-Load    | -                        | -                      | -          | -          |
+| Mission 3 | Mannslaughter | 18/4/26 | The Bolted Bushman | Rocket Launcher          | -                      | -          | -          |
 
 ## Tour 52
 
 |           | Map           | Date    | Item Drop      | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|----------------|--------------------------|------------------------|------------|------------|
-| Mission 1 | -             | 21/4/26 | The Gunboats   | -                        | -                      | -          | -          |
+| Mission 1 | Cataclysm     | 21/4/26 | The Gunboats   | -                        | -                      | -          | -          |
 | Mission 2 | Desperation   | 21/4/26 | The Ubersaw    | -                        | -                      | -          | -          |
 | Mission 3 | Mannslaughter | 21/4/26 | The Candy Cane | Medigun                  | -                      | -          | -          |
+
+## Gear Grinder
+|           | Map           | Date    | Item Drop          | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|--------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Mannslaughter | 22/4/26 | The Enforcer       | -                        | -                      | -          | -          |
+| Mission 2 | Cataclysm     | 22/426  | The Medic Mech-Bag | -                        | -                      | -          | -          |
+| Mission 3 | -             | -       | The Gunslinger     | Sniper                   | -                      | -          | -          |
