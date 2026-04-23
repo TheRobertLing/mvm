@@ -238,16 +238,32 @@
 | Mission 4 | 1                | 3                  | -         | 1                         | -                   | -                  | -                          | -                        |
 
 ## Tour 477
-|           | Map               | Date    | Item Drop           | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|-------------------|---------|---------------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Empire Escalation | 22/4/26 | The Pyrobotics Pack | Ham Shank          | -      | -                     | -          | -          |
-| Mission 2 | -                 | -       | -                   | -                  | -      | -                     | -          | -          |
-| Mission 3 | -                 | -       | -                   | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                 | -       | -                   | -                  | -      | -                     | -          | -          |
+|           | Map               | Date    | Item Drop              | Spec KS Fabricator | KS Kit        | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|------------------------|--------------------|---------------|-----------------------|------------|------------|
+| Mission 1 | Empire Escalation | 22/4/26 | The Pyrobotics Pack    | Ham Shank          | -             | -                     | -          | -          |
+| Mission 2 | Metro Malice      | 23/4/26 | The Classic            | -                  | -             | -                     | -          | -          |
+| Mission 3 | Hamlet Hostility  | 23/4/26 | The Battalion's Backup | Manmelter          | -             | -                     | -          | -          |
+| Mission 4 | Bavarian Botbash  | 23/4/26 | The Cloak and Dagger   | Rocket Launcher    | Short Circuit | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 2                | 1                  | 2         | 1                         | 1                   | -                  | -                          | -                        |
-| Mission 2 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 2 | 2                | 2                  | -         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 3 | 2                | -                  | 2         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 4 | 1                | 1                  | 3         | -                         | 1                   | -                  | -                          | -                        |
+
+## Tour 478
+
+|           | Map               | Date    | Item Drop          | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|--------------------|--------------------|--------|-----------------------|------------|------------|
+| Mission 1 | Metro Malice      | 23/4/26 | Mad Milk           | -                  | -      | -                     | -          | -          |
+| Mission 2 | Empire Escalation | 23/4/26 | The Bazaar Bargain | Jag                | -      | -                     | -          | -          |
+| Mission 3 | -                 | -       | -                  | -                  | -      | -                     | -          | -          |
+| Mission 4 | -                 | -       | -                  | -                  | -      | -                     | -          | -          |
+
+|           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
+|-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
+| Mission 1 | 2                | 1                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 2 | 1                | 2                  | 1         | 1                         | -                   | -                  | -                          | -                        |
 | Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
 | Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
