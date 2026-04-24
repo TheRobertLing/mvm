@@ -254,16 +254,32 @@
 
 ## Tour 478
 
-|           | Map               | Date    | Item Drop          | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|-------------------|---------|--------------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Metro Malice      | 23/4/26 | Mad Milk           | -                  | -      | -                     | -          | -          |
-| Mission 2 | Empire Escalation | 23/4/26 | The Bazaar Bargain | Jag                | -      | -                     | -          | -          |
-| Mission 3 | -                 | -       | -                  | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                 | -       | -                  | -                  | -      | -                     | -          | -          |
+|           | Map               | Date    | Item Drop                  | Spec KS Fabricator | KS Kit    | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|----------------------------|--------------------|-----------|-----------------------|------------|------------|
+| Mission 1 | Metro Malice      | 23/4/26 | Mad Milk                   | -                  | -         | -                     | -          | -          |
+| Mission 2 | Empire Escalation | 23/4/26 | The Bazaar Bargain         | Jag                | -         | -                     | -          | -          |
+| Mission 3 | Bavarian Botbash  | 24/4/26 | The Buffalo Steak Sandvich | -                  | -         | -                     | -          | -          |
+| Mission 4 | Hamlet Hostility  | 24/4/26 | The Claidheamh Mor         | Solemn Vow / Fists | Fan O'War | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 2                | 1                  | 1         | -                         | -                   | 1                  | -                          | -                        |
 | Mission 2 | 1                | 2                  | 1         | 1                         | -                   | -                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 3 | 3                | 2                  | -         | -                         | 2                   | -                  | -                          | -                        |
+| Mission 4 | 1                | 3                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+
+## Tour 479
+
+|           | Map               | Date    | Item Drop              | Spec KS Fabricator | KS Kit       | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|------------------------|--------------------|--------------|-----------------------|------------|------------|
+| Mission 1 | Bavarian Botbash  | 24/4/26 | The Rescue Ranger      | -                  | -            | -                     | -          | -          |
+| Mission 2 | Metro Malice      | 24/4/26 | Nessie's Nine Iron     | -                  | -            | -                     | -          | -          |
+| Mission 3 | Empire Escalation | 25/4/26 | Darwin's Danger Shield | -                  | -            | -                     | -          | -          |
+| Mission 4 | Hamlet Hostility  | 25/4/26 | The Ambassador         | Panic Attack       | Iron Curtain | -                     | -          | -          |
+
+|           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
+|-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
+| Mission 1 | 3                | -                  | 1         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 2 | 3                | 2                  | 1         | -                         | -                   | 1                  | -                          | -                        |
+| Mission 3 | 2                | 2                  | 1         | -                         | -                   | 2                  | -                          | -                        |
+| Mission 4 | 3                | 1                  | -         | -                         | 1                   | -                  | -                          | -                        |
