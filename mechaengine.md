@@ -76,3 +76,11 @@
 | Mission 1 | Broken Parts   | 20/4/26 | The B.A.S.E Jumper  | -                      | -                    | -          | -          |
 | Mission 2 | Disintegration | 20/4/26 | The Pyrobotics Pack | -                      | -                    | -          | -          |
 | Mission 3 | Bone Shaker    | 20/4/26 | The Ambassador      | Minigun                | -                    | -          | -          |
+
+## Tour 132
+
+|           | Map            | Date    | Item Drop           | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|---------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 26/4/26 | The Splendid Screen | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 26/4/26 | The Back Scratcher  | -                      | -                    | -          | -          |
+| Mission 3 | Bone Shaker    | 26/4/26 | The Holy Mackerel   | Knife                  | -                    | -          | -          |
