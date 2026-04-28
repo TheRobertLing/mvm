@@ -66,5 +66,5 @@
 |           | Map           | Date    | Item Drop          | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
 |-----------|---------------|---------|--------------------|--------------------------|------------------------|------------|------------|
 | Mission 1 | Mannslaughter | 23/4/26 | The Hong Kong Cone | -                        | -                      | -          | -          |
-| Mission 2 | -             | -       | -                  | -                        | -                      | -          | -          |
+| Mission 2 | Desperation   | 23/4/25 | -                  | -                        | -                      | -          | -          |
 | Mission 3 | -             | -       | -                  | -                        | -                      | -          | -          |
