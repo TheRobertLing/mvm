@@ -91,4 +91,11 @@
 |-----------|----------------|---------|-------------------------|------------------------|----------------------|------------|------------|
 | Mission 1 | Disintegration | 28/4/26 | The Flying Guillotine   | -                      | -                    | -          | -          |
 | Mission 2 | Broken Parts   | 28/4/26 | The Disciplinary Action | -                      | -                    | -          | -          |
-| Mission 3 | -              | 28/4/26 | The Dead Ringer         | -                      | Flame Thrower        | -          | -          |
+| Mission 3 | Bone Shaker    | 28/4/26 | The Dead Ringer         | -                      | Flame Thrower        | -          | -          |
+
+## Tour 134
+|           | Map          | Date    | Item Drop       | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|--------------|---------|-----------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts | 29/4/26 | The Soda Popper | -                      | -                    | -          | -          |
+| Mission 2 | -            | -       | -               | -                      | -                    | -          | -          |
+| Mission 3 | -            | -       | -               | -                      | -                    | -          | -          |
