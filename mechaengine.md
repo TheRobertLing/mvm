@@ -94,8 +94,8 @@
 | Mission 3 | Bone Shaker    | 28/4/26 | The Dead Ringer         | -                      | Flame Thrower        | -          | -          |
 
 ## Tour 134
-|           | Map          | Date    | Item Drop       | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
-|-----------|--------------|---------|-----------------|------------------------|----------------------|------------|------------|
-| Mission 1 | Broken Parts | 29/4/26 | The Soda Popper | -                      | -                    | -          | -          |
-| Mission 2 | -            | -       | -               | -                      | -                    | -          | -          |
-| Mission 3 | -            | -       | -               | -                      | -                    | -          | -          |
+|           | Map            | Date    | Item Drop                  | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|----------------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 29/4/26 | The Soda Popper            | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 2/5/26  | The Back Scatter           | -                      | -                    | -          | -          |
+| Mission 3 | Bone Shaker    | 2/5/26  | The Darwin's Danger Shield | Scattergun             | -                    | -          | -          |
