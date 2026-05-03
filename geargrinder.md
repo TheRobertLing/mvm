@@ -68,3 +68,11 @@
 | Mission 1 | Mannslaughter | 23/4/26 | The Hong Kong Cone | -                        | -                      | -          | -          |
 | Mission 2 | Desperation   | 23/4/25 | -                  | -                        | -                      | -          | -          |
 | Mission 3 | Cataclysm     | 1/5/26  | The Powerjack      | Sniper Rifle             | -                      | -          | -          |
+
+## Tour 55
+
+|           | Map           | Date   | Item Drop    | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|--------|--------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation   | 3/5/26 | The Atomizer | -                        | -                      | -          | -          |
+| Mission 2 | Mannslaughter | 3/5/26 | L'etranger   | -                        | -                      | -          | -          |
+| Mission 3 | Cataclysm     | 3/5/26 | The Atomizer | Wrench                   | -                      | -          | -          |

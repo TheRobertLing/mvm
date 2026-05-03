@@ -367,16 +367,16 @@
 ## Tour 485
 
 
-|           | Map               | Date                           | Item Drop | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|-------------------|--------------------------------|-----------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Bavarian Botbash  | The Pretty Boy's Pocket Pistol | -         | -                  | -      | -                     | -          | -          |
-| Mission 2 | Empire Escalation | The Machina                              | -         | -                  | -      | -                     | -          | -          |
-| Mission 3 | -                 | -                              | -         | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                 | -                              | -         | -                  | -      | -                     | -          | -          |
+|           | Map               | Date                           | Item Drop | Spec KS Fabricator | KS Kit        | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|--------------------------------|-----------|--------------------|---------------|-----------------------|------------|------------|
+| Mission 1 | Bavarian Botbash  | The Pretty Boy's Pocket Pistol | -         | -                  | -             | -                     | -          | -          |
+| Mission 2 | Empire Escalation | The Machina                    | -         | -                  | -             | -                     | -          | -          |
+| Mission 3 | Metro Malice      | The Medic Mech-Bag             | -         | -                  | -             | -                     | -          | -          |
+| Mission 4 | Hamlet Hostility  | The Eviction Notice            | -         | Classic            | Eureka Effect | -                     | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 1                | 4                  | -         | -                         | -                   | 1                  | -                          | -                        |
 | Mission 2 | 1                | 3                  | -         | 1                         | -                   | -                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 3 | 3                | -                  | 2         | -                         | -                   | 1                  | 1                          | -                        |
+| Mission 4 | 1                | 1                  | 2         | -                         | -                   | 1                  | -                          | -                        |

@@ -99,3 +99,10 @@
 | Mission 1 | Broken Parts   | 29/4/26 | The Soda Popper            | -                      | -                    | -          | -          |
 | Mission 2 | Disintegration | 2/5/26  | The Back Scatter           | -                      | -                    | -          | -          |
 | Mission 3 | Bone Shaker    | 2/5/26  | The Darwin's Danger Shield | Scattergun             | -                    | -          | -          |
+
+## Tour 135
+|           | Map            | Date   | Item Drop     | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|--------|---------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 2/5/26 | -             | -                      | -                    | -          | -          |
+| Mission 2 | Disintegration | 3/5/26 | The Concherer | -                      | -                    | -          | -          |
+| Mission 3 | -              | -      | -             | -                      | -                    | -          | -          |
