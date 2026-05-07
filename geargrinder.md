@@ -76,3 +76,19 @@
 | Mission 1 | Desperation   | 3/5/26 | The Atomizer | -                        | -                      | -          | -          |
 | Mission 2 | Mannslaughter | 3/5/26 | L'etranger   | -                        | -                      | -          | -          |
 | Mission 3 | Cataclysm     | 3/5/26 | The Atomizer | Wrench                   | -                      | -          | -          |
+
+## Tour 56
+
+|           | Map           | Date   | Item Drop      | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|--------|----------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation   | 5/5/26 | The Sandman    | -                        | -                      | -          | -          |
+| Mission 2 | Cataclysm     | 5/5/26 | The Machina    | -                        | -                      | -          | -          |
+| Mission 3 | Mannslaughter | 5/5/26 | The Gunslinger | Medigun                  | -                      | -          | -          |
+
+## Tour 57
+
+|           | Map         | Date   | Item Drop        | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|-------------|--------|------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation | 6/5/26 | The Axtinguisher | -                        | -                      | -          | -          |
+| Mission 2 | -           | -      | -                | -                        | -                      | -          | -          |
+| Mission 3 | -           | -      | -                | -                        | -                      | -          | -          |

@@ -106,3 +106,10 @@
 | Mission 1 | Broken Parts   | 2/5/26 | -             | -                      | -                    | -          | -          |
 | Mission 2 | Disintegration | 3/5/26 | The Concherer | -                      | -                    | -          | -          |
 | Mission 3 | Bone Shaker    | 4/5/26 | The Mad Milk  | Scattergun             | -                    | -          | -          |
+
+## Tour 136
+|           | Map            | Date   | Item Drop        | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|--------|------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Broken Parts   | 5/5/26 | Thermal Thruster | -                      | -                    | -          | -          |
+| Mission 2 | Bone Shaker    | 5/5/26 | The Big Earner   | -                      | -                    | -          | -          |
+| Mission 3 | Disintegrationman | 5/5/26 | The Ambassador   | Rocket launcher        | -                    | -          | -          |
