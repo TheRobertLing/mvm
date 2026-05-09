@@ -87,8 +87,16 @@
 
 ## Tour 57
 
-|           | Map         | Date   | Item Drop        | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
-|-----------|-------------|--------|------------------|--------------------------|------------------------|------------|------------|
-| Mission 1 | Desperation | 6/5/26 | The Axtinguisher | -                        | -                      | -          | -          |
-| Mission 2 | -           | -      | -                | -                        | -                      | -          | -          |
-| Mission 3 | -           | -      | -                | -                        | -                      | -          | -          |
+|           | Map           | Date   | Item Drop                  | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|--------|----------------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation   | 6/5/26 | The Axtinguisher           | -                        | -                      | -          | -          |
+| Mission 2 | Cataclysm     | 7/5/26 | The Kritzkrieg             | -                        | -                      | -          | -          |
+| Mission 3 | Mannslaughter | 8/5/26 | The Scotsman's Skullcutter | Minigun                  | -                      | -          | -          |
+
+## Tour 58
+
+|           | Map           | Date   | Item Drop          | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|--------|--------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Mannslaughter | 9/5/26 | The Machina        | -                        | -                      | -          | -          |
+| Mission 2 | Cataclysm     | 9/5/26 | The Equalizer      | -                        | -                      | -          | -          |
+| Mission 3 | Desperation   | 9/5/26 | The Fists of Steel | Flame Thrower            | -                      | -          | -          |
