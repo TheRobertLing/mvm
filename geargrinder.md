@@ -100,3 +100,11 @@
 | Mission 1 | Mannslaughter | 9/5/26 | The Machina        | -                        | -                      | -          | -          |
 | Mission 2 | Cataclysm     | 9/5/26 | The Equalizer      | -                        | -                      | -          | -          |
 | Mission 3 | Desperation   | 9/5/26 | The Fists of Steel | Flame Thrower            | -                      | -          | -          |
+
+## Tour 59
+
+|           | Map           | Date    | Item Drop           | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|---------------|---------|---------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Mannslaughter | 10/5/26 | The Holiday Punch   | -                        | -                      | -          | -          |
+| Mission 2 | Desperation   | 10/5/26 | The Fists of Steel  | -                        | -                      | -          | -          |
+| Mission 3 | Cataclysm     | 10/5/26 | The Righteous Bison | Knife                    | -                      | -          | -          |

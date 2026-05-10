@@ -128,3 +128,9 @@
 | Mission 1 | Broken Parts   | 9/5/26 | The Loch-n-Load    | -                      | -                    | -          | -          |
 | Mission 2 | Disintegration | 9/5/26 | The Phlogistinator | -                      | -                    | -          | -          |
 | Mission 3 | Bone Shaker    | 9/5/26 | The Shahanshah     | Medigun                | -                    | -          | -          |
+
+|           | Map         | Date    | Item Drop           | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|-------------|---------|---------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Bone Shaker | 10/5/26 | The Market Gardener | -                      | -                    | -          | -          |
+| Mission 2 | -           | -       | -                   | -                      | -                    | -          | -          |
+| Mission 3 | -           | -       | -                   | -                      | -                    | -          | -          |
