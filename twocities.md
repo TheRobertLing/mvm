@@ -446,16 +446,16 @@
 
 ## Tour 490
 
-|           | Map               | Date    | Item Drop         | Spec KS Fabricator | KS Kit | Pro KS Kit Fabricator | Australium | Golden Pan |
-|-----------|-------------------|---------|-------------------|--------------------|--------|-----------------------|------------|------------|
-| Mission 1 | Empire Escalation | 10/5/26 | The Dragon's Fury | -                  | -      | -                     | -          | -          |
-| Mission 2 | -                 | -       | -                 | -                  | -      | -                     | -          | -          |
-| Mission 3 | -                 | -       | -                 | -                  | -      | -                     | -          | -          |
-| Mission 4 | -                 | -       | -                 | -                  | -      | -                     | -          | -          |
+|           | Map               | Date    | Item Drop                  | Spec KS Fabricator | KS Kit      | Pro KS Kit Fabricator | Australium | Golden Pan |
+|-----------|-------------------|---------|----------------------------|--------------------|-------------|-----------------------|------------|------------|
+| Mission 1 | Empire Escalation | 10/5/26 | The Dragon's Fury          | -                  | -           | -                     | -          | -          |
+| Mission 2 | Hamlet Hostility  | 11/5/26 | The Winger                 | -                  | -           | -                     | -          | -          |
+| Mission 3 | Metro Malice      | 11/5/26 | The Brass Beast            | -                  | -           | -                     | -          | -          |
+| Mission 4 | Bavarian Botbash  | 11/5/26 | The Scotsman's Skullcutter | Manmelter          | Wanga Prick | Claidheamh mor        | -          | -          |
 
 |           | BW Money Furnace | BW Taunt Processor | BW KB-808 | RF Humor Suppression Pump | RF Emotion Detector | RF Bomb Stabilizer | Pristine Currency Digester | Pristine Brainstorm Bulb |
 |-----------|------------------|--------------------|-----------|---------------------------|---------------------|--------------------|----------------------------|--------------------------|
 | Mission 1 | 1                | -                  | 3         | -                         | 1                   | -                  | -                          | -                        |
-| Mission 2 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 3 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
-| Mission 4 | -                | -                  | -         | -                         | -                   | -                  | -                          | -                        |
+| Mission 2 | 1                | 1                  | 2         | -                         | 1                   | -                  | -                          | -                        |
+| Mission 3 | 1                | 2                  | 2         | 2                         | -                   | -                  | -                          | -                        |
+| Mission 4 | 1                | 2                  | 3         | 1                         | 1                   | -                  | -                          | -                        |

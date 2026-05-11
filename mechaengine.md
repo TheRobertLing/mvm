@@ -129,8 +129,16 @@
 | Mission 2 | Disintegration | 9/5/26 | The Phlogistinator | -                      | -                    | -          | -          |
 | Mission 3 | Bone Shaker    | 9/5/26 | The Shahanshah     | Medigun                | -                    | -          | -          |
 
-|           | Map         | Date    | Item Drop           | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
-|-----------|-------------|---------|---------------------|------------------------|----------------------|------------|------------|
-| Mission 1 | Bone Shaker | 10/5/26 | The Market Gardener | -                      | -                    | -          | -          |
-| Mission 2 | -           | -       | -                   | -                      | -                    | -          | -          |
-| Mission 3 | -           | -       | -                   | -                      | -                    | -          | -          |
+## Tour 139
+|           | Map            | Date    | Item Drop              | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|------------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Bone Shaker    | 10/5/26 | The Market Gardener    | -                      | -                    | -          | -          |
+| Mission 2 | Broken Parts   | 11/5/26 | Ali Baba's Wee Booties | -                      | -                    | -          | -          |
+| Mission 3 | Disintegration | 11/5/26 | The Tribalman's Shiv   | Rocket Launcher        | -                    | -          | -          |
+
+## Tour 140
+|           | Map            | Date    | Item Drop         | Silver Botkiller MK.II | Gold Botkiller MK.II | Australium | Golden Pan |
+|-----------|----------------|---------|-------------------|------------------------|----------------------|------------|------------|
+| Mission 1 | Disintegration | 11/5/26 | The Wrap Assassin | -                      | -                    | -          | -          |
+| Mission 2 | -              | -       | -                 | -                      | -                    | -          | -          |
+| Mission 3 | -              | -       | -                 | -                      | -                    | -          | -          |

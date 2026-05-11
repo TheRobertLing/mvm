@@ -108,3 +108,11 @@
 | Mission 1 | Mannslaughter | 10/5/26 | The Holiday Punch   | -                        | -                      | -          | -          |
 | Mission 2 | Desperation   | 10/5/26 | The Fists of Steel  | -                        | -                      | -          | -          |
 | Mission 3 | Cataclysm     | 10/5/26 | The Righteous Bison | Knife                    | -                      | -          | -          |
+
+## Tour 60
+
+|           | Map          | Date    | Item Drop              | Carbonado Botkiller MK.I | Diamond Botkiller MK.I | Australium | Golden Pan |
+|-----------|--------------|---------|------------------------|--------------------------|------------------------|------------|------------|
+| Mission 1 | Desperation  | 11/5/26 | The Scottish Handshake | -                        | -                      | -          | -          |
+| Mission 2 | Broken Parts | 11/5/26 | Natascha               | -                        | -                      | -          | -          |
+| Mission 3 | -            | -       | -                      | -                        | -                      | -          | -          |
